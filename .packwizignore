@@ -1,0 +1,9 @@
+*.md
+*.zip
+*.sh
+*.gradle
+*.jar
+build/
+.gradle/
+manual_builds/
+MultiMC/

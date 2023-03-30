@@ -1,0 +1,17 @@
+name = "Do a Barrel Roll"
+filename = "do-a-barrel-roll-2.6.3+1.19.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/gtLI94FF/do-a-barrel-roll-2.6.3%2B1.19.4-fabric.jar"
+hash-format = "sha1"
+hash = "be2e93739b6127ce91499f040d95c3f5e22f2fcb"
+
+[update]
+[update.modrinth]
+mod-id = "6FtRfnLg"
+version = "gtLI94FF"
+
+[option]
+optional = true
+description = "Do a Barrel Roll introduces a Cinematic Camera-esque experience for elytra."

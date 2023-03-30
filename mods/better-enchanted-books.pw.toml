@@ -1,0 +1,8 @@
+name = "Better Enchanted Books"
+filename = "better-enchanted-books-1.19.3-1.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.triphora.dev/jars/1.19.4/better-enchanted-books-1.19.3-1.4.1.jar"
+hash-format = "sha1"
+hash = "32c34f1b8ec5f787f57f44dc3e18f81326f01f4c"

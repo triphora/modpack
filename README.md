@@ -3,7 +3,7 @@
 <!-- modrinth_exclude.end -->
 *Featuring the [Empire Minecraft Utilities] mod!*
 
-Don't want to update your Fabric mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all the mods included instead of having to download 60+ separate mods.
+Don't want to update your Quilt mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all the mods included instead of having to download 60+ separate mods.
 
 The focus of this modpack is to have a wide selection of client-side mods, including the very best performance mods. It includes some optional tools, aesthetic changes, etc. that very few people would actually utilise, such as Critical Orientation or WorldEdit. The installer will prompt you at installation whether you wish to install these optional mods or not.
 
@@ -21,7 +21,7 @@ Please see the [latest Modrinth release] for the mods list!
 
 1. Create a new instance.
 2. Select the "Import from zip" option from the list on the left, and paste the following into the text box labeled "Local file or link to a direct download".
-	* `https://waffle.coffee/packwiz/MultiMC.zip`
+	* `https://modpack.pages.dev/MultiMC.zip`
 3. Click "Launch" to run the pack. You should see a dialog appear that prompts you to select optional mods. Select, and play!
 4. After installing, I recommend you lower your GUI scale (I use 2 personally) and change your key binds how you like them. There will be a lot of conflicts initially!
 
@@ -41,7 +41,7 @@ This pack is also downloadable through Modrinth. The instructions on how to inst
 	* If you don't know how to navigate here, open the Run box with Win + R, and type `%appdata%\.minecraft`.
 2. Open the Command Prompt using Win + R and `cmd`. From there, run the following commands:
 3. `cd %appdata%\.minecraft`
-4. `java -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/pack.toml`
+4. `java -jar packwiz-installer-bootstrap.jar https://modpack.pages.dev/pack.toml`
 	* If you get a message along the lines of "not found as command, batch file, yadda yadda", you need to [install Java].
 5. After installing, I recommend you lower your GUI scale (I use 2 personally) and change your key binds how you like them. There will be a lot of conflicts initially!
 6. When you want to update your mods, just run the same `java -jar` command again!
@@ -51,7 +51,7 @@ This pack is also downloadable through Modrinth. The instructions on how to inst
 1. Download the [Packwiz Installer Bootstrap] and put it into your Minecraft folder; the base or "root" of it, *not* into the `mods` folder.
 	* The Minecraft folder is probably located at `~/.minecraft/` on Linux and `~/Library/Application\ Support/minecraft/` on Mac.
 2. Open a terminal in your Minecraft folder.
-3. Run: `java -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/pack.toml`
+3. Run: `java -jar packwiz-installer-bootstrap.jar https://modpack.pages.dev/pack.toml`
 4. After installing, I recommend you lower your GUI scale (I use 2 personally) and change your key binds how you like them. There will be a lot of conflicts initially!
 5. When you want to update your mods, just run the same `java -jar` command again!
 

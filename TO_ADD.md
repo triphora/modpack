@@ -1,4 +1,6 @@
 ## Not updated
+- https://modrinth.com/mod/amecs
+- https://modrinth.com/mod/durabilityviewer
 - https://modrinth.com/mod/ebe
 - https://modrinth.com/mod/nmuk
 - https://modrinth.com/mod/rainbowify

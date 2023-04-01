@@ -57,11 +57,6 @@ file = "config/xaeroworldmap.txt"
 hash = "f2edb5559ab2e68169992f6bb4d5af918c86d243fd7b79fc94b18293e0c8f4ac"
 
 [[files]]
-file = "mods/amecs.pw.toml"
-hash = "60ab436fb292c5f4773d583622973b3c61f0abbb43c7f009b4016e028ffeb55b"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
 metafile = true
@@ -152,11 +147,6 @@ hash = "6e94a2241d03fff4d1eef01a82f161f741a76bc61d02ead1dcfeda76e84a815b"
 metafile = true
 
 [[files]]
-file = "mods/durabilityviewer.pw.toml"
-hash = "7128ef61169fb41983691feebd3119798ef3c1b3eefeebe1275c4e891d93bdaa"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -168,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "136cb2b0c674944b638be103d92b5957f3041d22805d6d0caacb016dfe699477"
+hash = "69cc56416b06ffff1841f7ac748dde02e916c930f4a403f7d348016f196fe92f"
 metafile = true
 
 [[files]]
@@ -222,6 +212,11 @@ hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
+file = "mods/gatekeep.pw.toml"
+hash = "c1fbfb1f22ed7eb9be56ce60bf0e9db51ce5c8c1ae23427ac27a8023e9d8ad51"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
 metafile = true
@@ -238,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "8a1483a42b67a1cb42baeb4f26d127c84fe973a0cbd6ef26825791dcb6da03df"
+hash = "efa7fb28b767fd6b2e096028407d713be2c199618d518eece059d90f6e423252"
 metafile = true
 
 [[files]]
@@ -277,8 +272,8 @@ hash = "be9cba93d81d3ce694b5855bbe5c5355721a7e150a0f6fc90c80f8c89cbfbd37"
 metafile = true
 
 [[files]]
-file = "mods/light-overlay.pw.toml"
-hash = "884d30b642235429838b17c5c276f9621bbfde01683a8684ca733f1b116f7928"
+file = "mods/lighty.pw.toml"
+hash = "79e4bc8cc39a0146d3dc97655e93113544d3d28b60c19b722a5d0464d55cfd74"
 metafile = true
 
 [[files]]
@@ -308,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
-hash = "70c45399dd45576a9c8acfaa4312b339aca1c901c191e56b9ce93a35054c53ff"
+hash = "344fe522a41c97464f87649a7b6208617d55fe490eb843ed665874c8dd6e60ea"
 metafile = true
 
 [[files]]

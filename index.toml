@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".editorconfig"
-hash = "932658651b1ebc34b834c1a7582230826d1da47066b61d50299e7c9da44b7f00"
-
-[[files]]
-file = ".github/workflows/release.yml"
-hash = "9dbe12dd25af74146b34dea21cd3b1e5eea1b1397f0ba94c5cdd76f2a9c6b3af"
-
-[[files]]
-file = "LICENSE"
-hash = "971d19d9db2d583a5211eeeb31ace200b7aa04e14eff1316910b7e91717e0fdd"
-
-[[files]]
-file = "_redirects"
-hash = "93c3ccb7e5a72a7ab2da41083eb7b1205df8db9f1dfb0b99fcee114192684118"
-
-[[files]]
 file = "config/clean-logs/config.toml"
 hash = "d3b870b8461eb879a1df30c05de45d3fd7b16f73c31894f51bf2d7d1ca3a2603"
 

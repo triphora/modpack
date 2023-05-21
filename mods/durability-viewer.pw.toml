@@ -1,0 +1,8 @@
+name = "Durability Viewer"
+filename = "DurabilityViewer-1.19.4-fabric0.80.0-1.10.4.jar"
+side = "client"
+
+[download]
+url = "https://maven.triphora.dev/de/guntram/mcmod/DurabilityViewer/1.19.4-fabric0.80.0-1.10.4/DurabilityViewer-1.19.4-fabric0.80.0-1.10.4.jar"
+hash-format = "sha1"
+hash = "909efb2d394f745a9b5ffe21b5dbb2de5877eca6"

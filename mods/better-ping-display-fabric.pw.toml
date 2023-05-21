@@ -3,6 +3,6 @@ filename = "BetterPingDisplay-Fabric-1.19.4-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.triphora.dev/jars/1.19.4/BetterPingDisplay-Fabric-1.1.1.jar"
+url = "https://maven.triphora.dev/com/vladmarica/better-ping-display-fabric/1.1.1/better-ping-display-fabric-1.1.1.jar"
 hash-format = "sha1"
-hash = "226d263404ac69ec4f01933d40322635ccf19d00"
+hash = "eb4eac1bf8bab6e9332bbb41b5b89e70e9157a0b"

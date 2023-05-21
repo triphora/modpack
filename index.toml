@@ -57,6 +57,11 @@ file = "config/xaeroworldmap.txt"
 hash = "f2edb5559ab2e68169992f6bb4d5af918c86d243fd7b79fc94b18293e0c8f4ac"
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "49ec4b8de3c0cf75d9ea4f524cae7a8f30ce96604c6cf6c765d04154fcdddadc"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
 metafile = true
@@ -88,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "74a4f0669d22099f1542e51edbae22b7c53f7b0e5983f919ad3cdb21ef0fd568"
+hash = "b152de5ca8dfa6080181dbb876f9917d93d7880b788d6c11268932da01b372b6"
 metafile = true
 
 [[files]]
@@ -138,12 +143,17 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "1256126146b9f5efab7048f53b18403fd43af8574a94e84ca29652154ae51d45"
+hash = "293f30ced052d0c4c334a05f8a2b41a5a47d80ecaf724e4df3a3dfbf1b22e652"
 metafile = true
 
 [[files]]
 file = "mods/draggable-resource-packs.pw.toml"
 hash = "6e94a2241d03fff4d1eef01a82f161f741a76bc61d02ead1dcfeda76e84a815b"
+metafile = true
+
+[[files]]
+file = "mods/durability-viewer.pw.toml"
+hash = "e53fee1596a0878dbfa4fe7a124695db99c987df889cbea4a02f1445907b9b8b"
 metafile = true
 
 [[files]]
@@ -213,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
+hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
 metafile = true
 
 [[files]]
@@ -223,12 +233,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "66fb59465e4efafda8fc31583f4349e3076f9698a8af2fece260f909ac56f167"
+hash = "92872d74b75028e6c0c819c82f5e17199af187ae2286331e7cb2cd36f5298e9b"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "348131a334da655904b65a1acde31161e2791729904b86b5596714584cc6929d"
+hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
 metafile = true
 
 [[files]]
@@ -238,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "265bf6a87ce8651ef1b8c8b491144e9c1ba6cc20a4c83a0534a05e48fff9d96c"
+hash = "166e9c1b7065997daec0a910789b05e8350cc90d56beeb9b85b53c498ae71ab8"
 metafile = true
 
 [[files]]
@@ -258,12 +268,12 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "7f2bf61fa3111617129fd6e4907fcab24a27a7ec27a56d1f9cc6e5078f41d2bd"
+hash = "c41ad1173c26bef50bdb7ad2a44bc6a385c39dd1ee7671c1ce2af4fe851439c1"
 metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "186e452d79a98eb93e46277a45085c0a1bbfe2da0f659636d6ba9da7d37734a5"
+hash = "10790233e2a867651a4655ccf7e9d6028c8848883cfb33bf7d627cc4367ef710"
 metafile = true
 
 [[files]]
@@ -293,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
-hash = "344fe522a41c97464f87649a7b6208617d55fe490eb843ed665874c8dd6e60ea"
+hash = "14956283e69ed4f813c710fbceffb0b2eab3c1711da91e244345cafc5053d579"
 metafile = true
 
 [[files]]
@@ -329,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
+metafile = true
+
+[[files]]
+file = "mods/nmuk.pw.toml"
+hash = "be21943f2259ad118ef9630e1d2a02ff67b38f60d64a6dc53d83aba137f5f069"
 metafile = true
 
 [[files]]
@@ -408,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
@@ -448,5 +463,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "ece41402c3374cb1817b47ecf9e6612ef3bf8f40194d23d35e10e8e9d7743583"
+hash = "6fdeef2f421de046fe114ba9bbed7f39922ebee47f69955af74eb1c9431657a5"
 metafile = true

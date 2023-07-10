@@ -1,13 +1,13 @@
 name = "Empire Minecraft Utilities"
-filename = "emcutils-quilt-1.19.4-6.1.0.jar"
+filename = "emcutils-quilt-1.20.1-7.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/QYTT62S0/versions/TbvQmKKX/emcutils-quilt-1.19.4-6.1.0.jar"
+url = "https://cdn.modrinth.com/data/QYTT62S0/versions/H0dPZkI2/emcutils-quilt-1.20.1-7.0.0.jar"
 hash-format = "sha1"
-hash = "d2bdc59b78efb85d98ede144a9b0f89e59812ba5"
+hash = "ded8f298fd8ac3767e4508f4f6dc57dc65f37f1f"
 
 [update]
 [update.modrinth]
 mod-id = "QYTT62S0"
-version = "TbvQmKKX"
+version = "H0dPZkI2"

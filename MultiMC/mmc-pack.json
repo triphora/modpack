@@ -17,24 +17,24 @@
 					"uid": "org.lwjgl3"
 				}
 			],
-			"cachedVersion": "1.19.4",
+			"cachedVersion": "1.20.1",
 			"important": true,
 			"uid": "net.minecraft",
-			"version": "1.19.4"
+			"version": "1.20.1"
 		},
 		{
 			"cachedName": "Intermediary Mappings",
 			"cachedRequires": [
 				{
-					"equals": "1.19.4",
+					"equals": "1.20.1",
 					"uid": "net.minecraft"
 				}
 			],
-			"cachedVersion": "1.19.4",
+			"cachedVersion": "1.20.1",
 			"cachedVolatile": true,
 			"dependencyOnly": true,
 			"uid": "net.fabricmc.intermediary",
-			"version": "1.19.4"
+			"version": "1.20.1"
 		},
 		{
 			"cachedName": "Quilt Loader",
@@ -43,9 +43,9 @@
 					"uid": "net.fabricmc.intermediary"
 				}
 			],
-			"cachedVersion": "0.18.10",
+			"cachedVersion": "0.20.0-beta.3",
 			"uid": "org.quiltmc.quilt-loader",
-			"version": "0.18.10"
+			"version": "0.20.0-beta.3"
 		}
 	],
 	"formatVersion": 1

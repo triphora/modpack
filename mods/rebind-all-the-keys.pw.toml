@@ -1,8 +1,13 @@
 name = "RebindAllTheKeys"
-filename = "rebind-all-the-keys-1.2.1+1.19.4.jar"
+filename = "rebind-all-the-keys-1.2.1+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.triphora.dev/jars/1.19.4/rebind-all-the-keys-1.2.1+1.19.3.jar"
+url = "https://cdn.modrinth.com/data/TpKqzzMu/versions/DwbZNCai/rebind-all-the-keys-1.2.1%2B1.20.jar"
 hash-format = "sha1"
-hash = "aa93371e966298dc7a6f702012197b2c5d1b6b45"
+hash = "52fb3170959e0286ed41229cdf89f65cb6f51c3c"
+
+[update]
+[update.modrinth]
+mod-id = "TpKqzzMu"
+version = "DwbZNCai"

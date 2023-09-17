@@ -1,9 +1,8 @@
-<!-- modrinth_exclude.start -->
 # waffle's Modpack
-<!-- modrinth_exclude.end -->
+
 *Featuring the [Empire Minecraft Utilities] mod!*
 
-Don't want to update your Quilt mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all the mods included instead of having to download 60+ separate mods.
+Don't want to update your Quilt mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods, meant primarily for use on the [Empire Minecraft server](https://ref.emc.gs/triphora). This is an easier way to download one thing to get all the mods included instead of having to download 60+ separate mods.
 
 The focus of this modpack is to have a wide selection of client-side mods, including the very best performance mods. It includes some optional tools, aesthetic changes, etc. that very few people would actually utilise, such as Critical Orientation or WorldEdit. The installer will prompt you at installation whether you wish to install these optional mods or not.
 
@@ -13,14 +12,16 @@ Feel free to remove or add any (compatible, [approved]) mods!
 
 Please see the [latest Modrinth release] for the mods list!
 
-<details><summary>Installation instructions</summary>
+After installation, I recommend you lower your GUI scale - I use 3 personally - and change your key binds to however you like them. There will be a lot of conflicts initially!
 
 ## Installation
 
-### Auto Update via MultiMC, PolyMC, ATLauncher (preferred)
+You may follow [the Modrinth modpack installation instructions](https://docs.modrinth.com/modpacks) for manual updates, or follow the instructions below to automatically update the pack.
+
+### Auto Update via MultiMC, Prism Launcher, ATLauncher (preferred)
 
 1. Create a new instance.
-2. Select the "Import from zip" option from the list on the left, and paste the following into the text box labeled "Local file or link to a direct download".
+2. Select the "Import from zip" option, and paste the following into the text box labeled "Local file or link to a direct download".
 	* `https://modpack.pages.dev/MultiMC.zip`
 3. Click "Launch" to run the pack. You should see a dialog appear that prompts you to select optional mods. Select, and play!
 4. After installing, I recommend you lower your GUI scale (I use 2 personally) and change your key binds how you like them. There will be a lot of conflicts initially!
@@ -28,10 +29,6 @@ Please see the [latest Modrinth release] for the mods list!
 #### I want to disable some required mods!
 
 Please refer to this guide made by the folks over at Fabulously Optimized: [Can I ignore some of the mods?].
-
-### Manual Update via MultiMC, PolyMC, ATLauncher
-
-This pack is also downloadable through Modrinth. The instructions on how to install Modrinth packs can be found on the [Modrinth documentation].
 
 ### Manual Update via Default Launcher
 
@@ -55,11 +52,8 @@ This pack is also downloadable through Modrinth. The instructions on how to inst
 4. After installing, I recommend you lower your GUI scale (I use 2 personally) and change your key binds how you like them. There will be a lot of conflicts initially!
 5. When you want to update your mods, just run the same `java -jar` command again!
 
-</details>
-
 [Empire Minecraft Utilities]: https://emc.gs/t/84930
 [Modrinth]: https://modrinth.com/modpack/waffles-modpack
-[Modrinth documentation]: https://docs.modrinth.com/docs/modpacks/playing_modpacks/
 [Approved]: https://mods.emc.gs
 [Conditionally Approved]: https://wiki.emc.gs/conditionally-approved-mods
 [latest Modrinth release]: https://modrinth.com/modpack/waffles-modpack/version/latest

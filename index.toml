@@ -127,13 +127,18 @@ hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
 metafile = true
 
 [[files]]
-file = "mods/dcch.pw.toml"
-hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "e82ce48190b2b7bc56aba98b91f0d0506c9f2f82c69ef6df9ed1ed6a4299a4fa"
 metafile = true
 
 [[files]]
 file = "mods/draggable-resource-packs.pw.toml"
 hash = "a4b76a464b165ef1882642a7d6396c5dd36af8e59ac78772c108e308e7f554f1"
+metafile = true
+
+[[files]]
+file = "mods/durabilityviewer.pw.toml"
+hash = "dd14faa78d5204f09aa6e2edc27953927f72c0ebb7e8deb81ba3fe4fa734b9f5"
 metafile = true
 
 [[files]]
@@ -159,6 +164,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "d83eacc12495d05c67f7c3b4db6f6190cc5d2a632c61dff3ec7b27157c8de781"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
 metafile = true
 
 [[files]]
@@ -282,6 +292,11 @@ hash = "0ac2e1a3b9ed5498b653c146fd96ecc690d2e37fb0438c1d53cf51783448bcfa"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "1bdf87c5dd44a752e0fa20ba3b42eb2671d3271c20da595115ae9b7ca63b1ada"
 metafile = true
@@ -322,6 +337,11 @@ hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "23583083d03c8effa3dca4c17c7da2fcf57d653292b02898afe8d7029be6b0d7"
+metafile = true
+
+[[files]]
 file = "mods/orientation.pw.toml"
 hash = "54998174a1d98a429b0148348ef781d2ce50d4741f89e8d2a92f87904ddfa314"
 metafile = true
@@ -339,6 +359,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "4fdcea796d0fd731884cc98f7218c636046b018fb734d8348e546211b57b0142"
+metafile = true
+
+[[files]]
+file = "mods/quicker-connect-button.pw.toml"
+hash = "3535f82493a836ccf02351c4ee40febca792d6f724416d1f23c5af981882efa1"
 metafile = true
 
 [[files]]
@@ -414,4 +439,9 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "874a680170fbf36204ee1c4e57650b6a28b15d10a32163964850aaccc9a7457a"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
 metafile = true

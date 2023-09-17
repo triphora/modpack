@@ -1,0 +1,17 @@
+name = "Do a Barrel Roll"
+filename = "do-a-barrel-roll-3.3.2+1.20-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/IQXyiTai/do-a-barrel-roll-3.3.2%2B1.20-fabric.jar"
+hash-format = "sha1"
+hash = "32debe9a6292bc45c40df5e412919c20ce0c8883"
+
+[update]
+[update.modrinth]
+mod-id = "6FtRfnLg"
+version = "IQXyiTai"
+
+[option]
+optional = true
+description = "Do a Barrel Roll introduces a Cinematic Camera-esque experience for elytra."
